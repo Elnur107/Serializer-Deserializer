@@ -1,0 +1,20 @@
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\bin\Debug\net7.0\Serializer & Deserializer.exe
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\bin\Debug\net7.0\Serializer & Deserializer.deps.json
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\bin\Debug\net7.0\Serializer & Deserializer.runtimeconfig.json
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\bin\Debug\net7.0\Serializer & Deserializer.dll
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\bin\Debug\net7.0\Serializer & Deserializer.pdb
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\obj\Debug\net7.0\Serializer & Deserializer.csproj.AssemblyReference.cache
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\obj\Debug\net7.0\Serializer & Deserializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\obj\Debug\net7.0\Serializer & Deserializer.AssemblyInfoInputs.cache
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\obj\Debug\net7.0\Serializer & Deserializer.AssemblyInfo.cs
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\obj\Debug\net7.0\Serializer & Deserializer.csproj.CoreCompileInputs.cache
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\obj\Debug\net7.0\Serializer & Deserializer.csproj.CopyComplete
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\obj\Debug\net7.0\Serializer & Deserializer.dll
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\obj\Debug\net7.0\refint\Serializer & Deserializer.dll
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\obj\Debug\net7.0\Serializer & Deserializer.pdb
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\obj\Debug\net7.0\Serializer & Deserializer.genruntimeconfig.cache
+C:\Users\ekber\source\repos\Serializer & Deserializer\Serializer & Deserializer\obj\Debug\net7.0\ref\Serializer & Deserializer.dll
